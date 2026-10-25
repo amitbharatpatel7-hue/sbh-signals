@@ -1,0 +1,136 @@
+{
+ "generated_at": "2026-10-25T08:18:41Z",
+ "close_date": "2026-10-19",
+ "mode": "live",
+ "profile": "adventurous",
+ "sleeves": {
+  "core": {
+   "targets": [
+    {
+     "ticker": "XLE",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "DBC",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLV",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "SMH",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLP",
+     "target_weight_pct": 13.0
+    }
+   ],
+   "ranking": [
+    {
+     "ticker": "XLE",
+     "momentum_pct": 34.1
+    },
+    {
+     "ticker": "DBC",
+     "momentum_pct": 27.2
+    },
+    {
+     "ticker": "XLV",
+     "momentum_pct": 20.3
+    },
+    {
+     "ticker": "SMH",
+     "momentum_pct": 16.2
+    },
+    {
+     "ticker": "XLP",
+     "momentum_pct": 9.2
+    },
+    {
+     "ticker": "QQQ",
+     "momentum_pct": 8.0
+    },
+    {
+     "ticker": "SPY",
+     "momentum_pct": 7.8
+    },
+    {
+     "ticker": "XLB",
+     "momentum_pct": 5.9
+    },
+    {
+     "ticker": "XLF",
+     "momentum_pct": 5.3
+    },
+    {
+     "ticker": "EFA",
+     "momentum_pct": 4.5
+    }
+   ]
+  },
+  "satellite": {
+   "buys": [],
+   "sells": [],
+   "holds": [
+    {
+     "ticker": "DELL",
+     "stop_price": 439.54,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    },
+    {
+     "ticker": "MU",
+     "stop_price": 811.71,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    },
+    {
+     "ticker": "HPE",
+     "stop_price": 55.09,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    },
+    {
+     "ticker": "AMD",
+     "stop_price": 475.43,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    },
+    {
+     "ticker": "NTAP",
+     "stop_price": 177.86,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    },
+    {
+     "ticker": "ANET",
+     "stop_price": 162.56,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    }
+   ]
+  },
+  "moonshot": {
+   "buys": [],
+   "sells": [
+    {
+     "ticker": "ALAB",
+     "price": 257.16,
+     "exit_reason": "trail stop"
+    }
+   ],
+   "holds": [
+    {
+     "ticker": "MRVL",
+     "stop_price": 206.46,
+     "trail_pct": 25.0,
+     "entry_date": "2026-09-28"
+    }
+   ]
+  }
+ },
+ "shadow_sleeves": [],
+ "missed": []
+}
