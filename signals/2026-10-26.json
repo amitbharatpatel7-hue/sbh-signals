@@ -1,0 +1,128 @@
+{
+ "generated_at": "2026-11-01T08:19:15Z",
+ "close_date": "2026-10-26",
+ "mode": "live",
+ "profile": "adventurous",
+ "sleeves": {
+  "core": {
+   "targets": [
+    {
+     "ticker": "XLE",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "DBC",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLV",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "SHY",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLB",
+     "target_weight_pct": 13.0
+    }
+   ],
+   "ranking": [
+    {
+     "ticker": "XLE",
+     "momentum_pct": 34.1
+    },
+    {
+     "ticker": "DBC",
+     "momentum_pct": 25.0
+    },
+    {
+     "ticker": "XLV",
+     "momentum_pct": 24.3
+    },
+    {
+     "ticker": "SMH",
+     "momentum_pct": 14.5
+    },
+    {
+     "ticker": "XLB",
+     "momentum_pct": 11.3
+    },
+    {
+     "ticker": "XLP",
+     "momentum_pct": 11.3
+    },
+    {
+     "ticker": "XLF",
+     "momentum_pct": 6.3
+    },
+    {
+     "ticker": "SPY",
+     "momentum_pct": 6.3
+    },
+    {
+     "ticker": "EFA",
+     "momentum_pct": 4.6
+    },
+    {
+     "ticker": "QQQ",
+     "momentum_pct": 4.5
+    }
+   ]
+  },
+  "satellite": {
+   "buys": [],
+   "sells": [
+    {
+     "ticker": "DELL",
+     "price": 424.3,
+     "exit_reason": "trail stop"
+    },
+    {
+     "ticker": "HPE",
+     "price": 55.09,
+     "exit_reason": "trail stop"
+    }
+   ],
+   "holds": [
+    {
+     "ticker": "MU",
+     "stop_price": 811.71,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    },
+    {
+     "ticker": "AMD",
+     "stop_price": 475.43,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    },
+    {
+     "ticker": "NTAP",
+     "stop_price": 177.86,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    },
+    {
+     "ticker": "ANET",
+     "stop_price": 162.56,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    }
+   ]
+  },
+  "moonshot": {
+   "buys": [],
+   "sells": [
+    {
+     "ticker": "MRVL",
+     "price": 196.4,
+     "exit_reason": "trail stop"
+    }
+   ],
+   "holds": []
+  }
+ },
+ "shadow_sleeves": [],
+ "missed": []
+}
