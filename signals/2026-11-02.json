@@ -1,0 +1,109 @@
+{
+ "generated_at": "2026-11-08T08:19:08Z",
+ "close_date": "2026-11-02",
+ "mode": "live",
+ "profile": "adventurous",
+ "sleeves": {
+  "core": {
+   "targets": [
+    {
+     "ticker": "XLV",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLE",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "DBC",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLP",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLB",
+     "target_weight_pct": 13.0
+    }
+   ],
+   "ranking": [
+    {
+     "ticker": "XLV",
+     "momentum_pct": 23.5
+    },
+    {
+     "ticker": "XLE",
+     "momentum_pct": 20.5
+    },
+    {
+     "ticker": "DBC",
+     "momentum_pct": 18.5
+    },
+    {
+     "ticker": "XLP",
+     "momentum_pct": 11.9
+    },
+    {
+     "ticker": "XLB",
+     "momentum_pct": 7.8
+    },
+    {
+     "ticker": "XLF",
+     "momentum_pct": 7.3
+    },
+    {
+     "ticker": "VNQ",
+     "momentum_pct": 3.0
+    },
+    {
+     "ticker": "SPY",
+     "momentum_pct": 2.1
+    },
+    {
+     "ticker": "EFA",
+     "momentum_pct": 1.7
+    },
+    {
+     "ticker": "IWM",
+     "momentum_pct": 0.7
+    }
+   ]
+  },
+  "satellite": {
+   "buys": [],
+   "sells": [
+    {
+     "ticker": "MU",
+     "price": 690.0,
+     "exit_reason": "trail stop"
+    },
+    {
+     "ticker": "AMD",
+     "price": 449.04,
+     "exit_reason": "trail stop"
+    },
+    {
+     "ticker": "NTAP",
+     "price": 169.19,
+     "exit_reason": "trail stop"
+    }
+   ],
+   "holds": [
+    {
+     "ticker": "ANET",
+     "stop_price": 162.56,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    }
+   ]
+  },
+  "moonshot": {
+   "buys": [],
+   "sells": [],
+   "holds": []
+  }
+ },
+ "shadow_sleeves": [],
+ "missed": []
+}
