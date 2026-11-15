@@ -1,0 +1,106 @@
+{
+ "generated_at": "2026-11-15T08:19:01Z",
+ "close_date": "2026-11-09",
+ "mode": "live",
+ "profile": "adventurous",
+ "sleeves": {
+  "core": {
+   "targets": [
+    {
+     "ticker": "XLV",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLE",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLP",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "DBC",
+     "target_weight_pct": 13.0
+    },
+    {
+     "ticker": "XLF",
+     "target_weight_pct": 13.0
+    }
+   ],
+   "ranking": [
+    {
+     "ticker": "XLV",
+     "momentum_pct": 23.7
+    },
+    {
+     "ticker": "XLE",
+     "momentum_pct": 20.5
+    },
+    {
+     "ticker": "XLP",
+     "momentum_pct": 13.8
+    },
+    {
+     "ticker": "DBC",
+     "momentum_pct": 13.3
+    },
+    {
+     "ticker": "XLF",
+     "momentum_pct": 10.2
+    },
+    {
+     "ticker": "XLB",
+     "momentum_pct": 9.0
+    },
+    {
+     "ticker": "VNQ",
+     "momentum_pct": 4.9
+    },
+    {
+     "ticker": "SPY",
+     "momentum_pct": 4.5
+    },
+    {
+     "ticker": "EFA",
+     "momentum_pct": 4.3
+    },
+    {
+     "ticker": "SMH",
+     "momentum_pct": 3.9
+    }
+   ]
+  },
+  "satellite": {
+   "buys": [
+    {
+     "ticker": "AMD",
+     "price": 534.06,
+     "rank_score": 0.18,
+     "half_size": false
+    },
+    {
+     "ticker": "TLN",
+     "price": 376.01,
+     "rank_score": 0.13,
+     "half_size": false
+    }
+   ],
+   "sells": [],
+   "holds": [
+    {
+     "ticker": "ANET",
+     "stop_price": 162.56,
+     "trail_pct": 25.0,
+     "entry_date": "2026-08-31"
+    }
+   ]
+  },
+  "moonshot": {
+   "buys": [],
+   "sells": [],
+   "holds": []
+  }
+ },
+ "shadow_sleeves": [],
+ "missed": []
+}
